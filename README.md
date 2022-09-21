@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senecaljf&label=Profile%20views&color=0e75b6&style=flat" alt="senecaljf" /> </p>
 
-- 🔭 I’m currently working on **NightLife**
-
-- 🌱 I’m currently learning **Nest.js**
-
 - 📫 How to reach me **jeanjeansenecal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
